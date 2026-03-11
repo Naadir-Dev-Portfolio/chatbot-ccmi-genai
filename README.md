@@ -4,7 +4,7 @@
 
 ## Overview
 
-**AI Chatbot Assistant** is a custom-built Streamlit application developed specifically for the CCMI Team, built by me (Naadir). It serves as a specialized assistant to support our data analysts with Excel-related coding challenges, Power Query solutions, VBA scripts, M code, Power BI Dax and more.
+**CCMI GenAI Chatbot** is a custom-built Streamlit application developed specifically for the CCMI Team, built by me (Naadir). It serves as a specialized assistant to support our data analysts with Excel-related coding challenges, Power Query solutions, VBA scripts, M code, Power BI Dax and more.
 
 This project demonstrates how advanced prompt engineering techniques can be used to tailor the behavior of large language models. By leveraging **Google's Gemini 1.5 Flash model**, I customized the assistant's responses to align with how our team works, communicates, and solves problems day-to-day.
 
