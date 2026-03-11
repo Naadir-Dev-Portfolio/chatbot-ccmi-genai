@@ -8,7 +8,7 @@
 
 This project demonstrates how advanced prompt engineering techniques can be used to tailor the behavior of large language models. By leveraging **Google's Gemini 1.5 Flash model**, I customized the assistant's responses to align with how our team works, communicates, and solves problems day-to-day.
 
-This not only showcases my ability to engineer precise, context-aware prompts, but also how to integrate and deploy them via modern APIs to build practical, team-specific AI tools.
+This not only showcases my ability to engineer precise, context aware prompts, but also how to integrate and deploy them via modern APIs to build practical, team-specific AI tools.
 
 
 ---
