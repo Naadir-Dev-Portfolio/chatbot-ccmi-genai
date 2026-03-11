@@ -1,5 +1,5 @@
 # AI Chatbot Assistant built for the CCMI Team
-(An independent development project)
+
 
 ![Chatbot Screenshot](images/screen.jpg)
 
@@ -13,6 +13,7 @@
 |-------------|-------------------------------|-------------------|--------|
 | Naadir D    | Python, Streamlit, Google AI  | Gemini 1.5 Flash  | 2024   |
 
+(An independent development project)
 ---
 
 ## ✨ Features
@@ -28,8 +29,6 @@
 - Responsive design that adapts to dark and light themes.
 
 ---
-
-## Installation
 
 ### Prerequisites
 
