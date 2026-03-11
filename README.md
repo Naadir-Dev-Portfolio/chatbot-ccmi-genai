@@ -1,7 +1,6 @@
 # AI Chatbot Assistant built for the CCMI Team
 
 
-![Chatbot Screenshot](images/screen.jpg)
 
 ## Overview
 
@@ -11,6 +10,10 @@ This project demonstrates how advanced prompt engineering techniques can be used
 
 This not only showcases my ability to engineer precise, context-aware prompts, but also how to integrate and deploy them via modern APIs to build practical, team-specific AI tools.
 
+
+---
+
+![Chatbot Screenshot](images/screen.jpg)
 
 ---
 
