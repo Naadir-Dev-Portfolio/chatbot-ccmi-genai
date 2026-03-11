@@ -4,7 +4,7 @@ import base64
 import os
 
 # ───────────────────────────────────────────────────────────────────────────────
-#  Session state initialization
+#  Session state initializations
 # ───────────────────────────────────────────────────────────────────────────────
 if 'api_key' not in st.session_state:
     st.session_state['api_key'] = ''
