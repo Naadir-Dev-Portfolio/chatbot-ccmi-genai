@@ -1,5 +1,5 @@
-# An Independent Development project
 # AI Chatbot Assistant built for the CCMI Team
+(An independent development project)
 
 🗨️ **AI Chatbot Assistant** is a Streamlit application designed to help data analysts with coding challenges, Excel queries, VBA scripts, Power Query, M code, and more. The assistant leverages Google's Generative AI to provide insightful and helpful responses.
 
