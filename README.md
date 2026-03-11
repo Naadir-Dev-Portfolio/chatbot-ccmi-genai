@@ -3,20 +3,27 @@
 
 ![Chatbot Screenshot](images/screen.jpg)
 
-🗨️ **AI Chatbot Assistant** is a Streamlit application designed to help data analysts with coding challenges, Excel queries, VBA scripts, Power Query, M code, and more. The assistant leverages **Google's Gemini 1.5 Flash model** to provide insightful and helpful responses.
+## Overview
+
+**AI Chatbot Assistant** is a custom-built Streamlit application developed specifically for the CCMI Team, built by me (Naadir). It serves as a specialized assistant to support our data analysts with Excel-related coding challenges, Power Query solutions, VBA scripts, M code, Power BI Dax and more.
+
+This project demonstrates how advanced prompt engineering techniques can be used to tailor the behavior of large language models. By leveraging **Google's Gemini 1.5 Flash model**, I customized the assistant's responses to align with how our team works, communicates, and solves problems day-to-day.
+
+This not only showcases my ability to engineer precise, context-aware prompts, but also how to integrate and deploy them via modern APIs to build practical, team-specific AI tools.
+
 
 ---
 
-## 👨‍💻 Author Information
+## Author Information
 
 | Name        | Technology Used               | Model Used        | Year  |
 |-------------|-------------------------------|-------------------|--------|
 | Naadir D    | Python, Streamlit, Google AI  | Gemini 1.5 Flash  | 2024   |
 
-(An independent development project)
+
 ---
 
-## ✨ Features
+## Features
 
 - Interactive chat interface for data analysis assistance.
 - Specialized in:
