@@ -1,0 +1,17 @@
+{
+  "section": "ai",
+  "category": "generativeai",
+  "n": 1,
+  "title": "Enterprise GenAI Assistant",
+  "img": "ccmiChatbot_demo.webp",
+  "desc": "Custom enterprise chatbot leveraging Gemini 1.5 Flash — built and deployed for a team within days. RAG pipeline over internal documentation.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Enterprise-GenAI-Assistant/blob/main/main.py",
+  "demo": "https://ccmi-genai-chat.streamlit.app/",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Enterprise-GenAI-Assistant/blob/main/README.md",
+  "tags": [
+    "ai",
+    "streamlit",
+    "gemini",
+    "prompt-eng"
+  ]
+}
